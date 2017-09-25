@@ -7,7 +7,7 @@ import csv
 #should start with PYTHONIOENCODING=utf-8 and give it the inputfile as the argument
 #would love to be pointed to the more appropriate way to do this in python.
 
-#To invoke: #PYTHONIOENCODING=utf-8 python get_countries input_file.kml
+#To invoke: #PYTHONIOENCODING=utf-8 python get_addresses.py input_file.kml
 #will produce input_file.kml.csv 
 
 #note that this script does not make any attempt to do the rate limiting google expects
