@@ -9,7 +9,7 @@ import csv
 #from a csv file that has timestamps and addresses with the countries last
 #takes one arg (the input file) and outputs the HTML to draw the chart
 
-#To invoke: #python make_country_chart.py input_file.kml.csv > Country_Chart.hml 
+#To invoke: #python make_country_chart.py input_file.csv > Country_Chart.html 
 
 #read in the csv (when is the first, country is the last)
 csv_file = open (sys.argv[1], 'r')
