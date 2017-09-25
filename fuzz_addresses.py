@@ -7,7 +7,7 @@ from datetime import datetime
 #a fuzzed csv that contains two columns. A datetime stamp of the first day of the year
 #in which the location occured, and the country.
 
-#call it with python inputfile.csv outputfile.csv
+#call it with python fuzz_addresses.py inputfile.csv outputfile.csv
 
 #open the CSV output file
 inputfile  = open((sys.argv[1]), "r")
