@@ -1,5 +1,7 @@
 # google-location-tools
 A set of scripts to process Google location kml files to produce useful extracts of the information. More info at: http://www.bricoleur.org/2017/09/google-location-history-to-country-chart.html
+and, if you have any issues, please @message me on Twitter https://twitter.com/amac
+
 
 reduce_kml.py -- takes a large Google location kml archive and reduces it to only points that are at least some amount of distance from the last one
 
