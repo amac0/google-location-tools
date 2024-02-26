@@ -7,6 +7,6 @@ reduce_json.py -- takes Records.json from Google Takeout of Google Timeline and 
 
 find_countries.py -- takes slimmed.json and outputs a list of dates and countries for any changes in country from slimmed.json
 
-Bother scripts use geopy. The second script maintains a cache of reverse geolocations as per the requirements in geopy.
+Bother scripts use [geopy](https://geopy.readthedocs.io/en/stable/). The second script maintains a cache of reverse geolocations as per the requirements in geopy.
 
 This repository also contains some old files based on Google's old format of location history. See https://www.bricoleur.org/2017/09/google-location-history-to-country-chart.html
