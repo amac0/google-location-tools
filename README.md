@@ -1,7 +1,7 @@
 # google-location-tools
 
-A set of scripts to process Google timeline files to produce useful extracts of the information. More info at: https://www.bricoleur.org/2024/02/google-timeline-to-countries-and-dates.html
-and, if you have any issues, please @message me on Mastodon [https://mastodon.social/@amac] or Threads [https://www.threads.net/@amac0].
+A set of scripts to process Google timeline files to produce useful extracts of the information. More info at: [https://www.bricoleur.org/2024/02/google-timeline-to-countries-and-dates.html]
+and, if you have any issues, please @message me on Mastodon as [@amac@mastodon.social](https://mastodon.social/@amac) or Threads as [@amac0](https://www.threads.net/@amac0).
 
 reduce_json.py -- takes Records.json from Google Takeout of Google Timeline and creates slimmed.json which contains only points at least 50 miles apart
 
